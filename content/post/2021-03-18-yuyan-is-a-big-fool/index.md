@@ -1,7 +1,7 @@
 ---
 title: YuYan is a big fool!
 author: 王晗
-date: '2021-03-18'
+date: 2022-04-22
 slug: yuyan-is-a-big-fool
 categories: []
 tags:
@@ -14,7 +14,7 @@ tags:
 
 # 于妍从哪里来
 
-她是天下下凡
+她是天仙下凡
 
 # 于妍要到哪里去
 
