@@ -1,0 +1,2 @@
+blogdown::stop_server()
+blogdown:::serve_site()
